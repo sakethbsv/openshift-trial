@@ -1,0 +1,4 @@
+openshift-trial
+===============
+
+openshift dine
